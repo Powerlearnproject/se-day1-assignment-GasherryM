@@ -108,7 +108,11 @@ Importance:
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Vague Prompt- Tell me about cats
+
 Clear Prompt- Tell me about the history of domestic cats. 
+
 Clarity: The improved prompt specifies what is being asked (history of domestic cats) rather than just a vague general question about cats.
+
 Specific Details: The improved prompt is more effective as it allows the AI Machine to delve into details about a specific period of time in history, about a specific category of cats-domestic-, which allows it to quote precise timelines and notable figures or people that played an important role in the growth or destruction of the subject(s) in question. 
+
 Concise: The additional details provide a clear picture without being overly complicated, making it easier for the machine to understand exactly what is needed.
